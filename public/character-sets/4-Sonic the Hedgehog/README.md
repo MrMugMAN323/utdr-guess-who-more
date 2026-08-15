@@ -1,0 +1,1 @@
+print("gotta go fast")
